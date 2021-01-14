@@ -1,0 +1,29 @@
+{
+  "name": "controle-financeiro",
+  "version": "1.0.0",
+  "description": "Mini controle de contas a receber e a paga. Construído para exercitar a stack JavaScript.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talyssonlima/controle-de-despesas.git"
+  },
+  "keywords": [
+    "controle",
+    "de",
+    "despesas"
+  ],
+  "author": "Talysson Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talyssonlima/controle-de-despesas/issues"
+  },
+  "homepage": "https://github.com/talyssonlima/controle-de-despesas#readme",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
